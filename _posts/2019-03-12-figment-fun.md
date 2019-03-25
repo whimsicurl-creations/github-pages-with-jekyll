@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  "Figment Fun"
+
+title: "Figment Fun"
+
+date: 2019-03-12
+
 ---
 
 
